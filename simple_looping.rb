@@ -55,6 +55,5 @@ def for_iterator(number_of_times)
   counter = 1..number_of_times
   for phrase in number_of_times
     puts phrase
-    counter += 1
   end
 end
