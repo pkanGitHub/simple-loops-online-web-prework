@@ -1,5 +1,5 @@
 require_relative './spec_helper'
-require_relative '../simple_looping'
+require_relative "../simple_looping"
 
 describe 'Loops' do
   before(:each) do
